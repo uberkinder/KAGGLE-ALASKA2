@@ -1,1 +1,1 @@
-# 2020-Kaggle-ALASKA2
+# Kaggle-ALASKA2
