@@ -1,4 +1,4 @@
 # Kaggle
 My solutions for Kaggle Competitions
 
-Account: kaggle.com/uberkinder
+Account: https://www.kaggle.com/uberkinder
