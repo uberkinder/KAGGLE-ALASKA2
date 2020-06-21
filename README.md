@@ -1,1 +1,4 @@
-# Kaggle-ALASKA2
+# Kaggle
+My solutions for Kaggle Competitions
+
+Account: kaggle.com/uberkinder
